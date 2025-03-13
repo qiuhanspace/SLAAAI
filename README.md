@@ -1,1 +1,1 @@
-# **S**ustaintable **L**ifestyle **A**utomation through **AI** (SLAAI)
+# Sustaintable Lifestyle Automation through AI (SLAAI)
